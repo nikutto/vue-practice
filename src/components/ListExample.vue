@@ -6,7 +6,7 @@
     <div class="list-example">
     <h1 class="green">List example</h1>
     <h3>
-        <table align>
+        <table>
             <thead>
                 <tr>
                     <th>name</th>
